@@ -16,7 +16,7 @@ With the increasing trend of nuclear families in society and with fewer children
 persons in the families gets increasingly difficult. Therefore, it is necessary to safeguard elderly people who are absolutely
 neglected, ill-treated, and vulnerable.
 
-## 1 Product Perspective
+## 1. Product Perspective
 ### 1.1. Database
 Elderly stores information regarding medicine intake, user data from the user and their point of contact in sql. This 
 data can be secured further using encryption algorithms. The database’s role will be to host relevant documents and
@@ -35,3 +35,7 @@ using the digital logs.
 Structure Chart
 
 <img width="550" height="450" alt="Structure Chart" src="https://user-images.githubusercontent.com/76189053/232155093-fd733e04-da88-4dec-b582-4e68ab8b8c89.png">
+
+ACTIVITY DIAGRAM
+![image](https://user-images.githubusercontent.com/76189053/232155736-9e751174-51b9-41d9-a656-9f9a0b2df197.png)
+
