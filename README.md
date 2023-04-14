@@ -1,16 +1,5 @@
-# code_silver
+# ELDERLY
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A Flutter project.
+App helps caregivers manage stress, appointments, and health emergencies.
+Provides information on elderly care options: long- term care, nursing, hospice, assisted living, etc and Focuses on social and personal requirements of seniors aging with dignity and assistance.
