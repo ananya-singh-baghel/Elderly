@@ -31,4 +31,4 @@ deployment of this user interface will speed up access to and improve the presen
 Another viewpoint of application is necessary to allow the caregivers to keep tabs on their elder ones and into 
 their specific activities. This will allow the elders and caregivers to be connected and verify the elder’s session
 using the digital logs.
-<img width="853" alt="Structure Chart" src="https://user-images.githubusercontent.com/76189053/232155093-fd733e04-da88-4dec-b582-4e68ab8b8c89.png">
+<img width="550" height="550" alt="Structure Chart" src="https://user-images.githubusercontent.com/76189053/232155093-fd733e04-da88-4dec-b582-4e68ab8b8c89.png">
