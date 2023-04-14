@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "474205715759",
+    "project_id": "codesilver-76060",
+    "storage_bucket": "codesilver-76060.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474205715759:android:5acef9d7f75be7357fb5da",
+        "android_client_info": {
+          "package_name": "com.example.code_silver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474205715759-lqh15abq10tmbkla0j784dvi4s78ihsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARULvAEIHxj9ncqDwALK1lzRpwVxMqxsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474205715759-lqh15abq10tmbkla0j784dvi4s78ihsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
