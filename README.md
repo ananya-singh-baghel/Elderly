@@ -37,5 +37,6 @@ Structure Chart
 <img width="550" height="450" alt="Structure Chart" src="https://user-images.githubusercontent.com/76189053/232155093-fd733e04-da88-4dec-b582-4e68ab8b8c89.png">
 
 ACTIVITY DIAGRAM
+
 <img width="550" height="450" alt="Structure Chart" src="https://user-images.githubusercontent.com/76189053/232155736-9e751174-51b9-41d9-a656-9f9a0b2df197.png">
 
