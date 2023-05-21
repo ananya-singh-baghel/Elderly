@@ -50,20 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyARULvAEIHxj9ncqDwALK1lzRpwVxMqxsw',
-    appId: '1:474205715759:android:5acef9d7f75be7357fb5da',
+    apiKey: 'add api key',
+    appId: 'add api id',
     messagingSenderId: '474205715759',
     projectId: 'codesilver-76060',
     storageBucket: 'codesilver-76060.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBBBjrfFvfqKg0-o1CDCWxwPY2IP9dB_18',
-    appId: '1:474205715759:ios:7c8fc323a1cf3b647fb5da',
+    apiKey: 'add api key',
+    appId: 'add api id',
     messagingSenderId: '474205715759',
     projectId: 'codesilver-76060',
     storageBucket: 'codesilver-76060.appspot.com',
-    iosClientId: '474205715759-4mq4uldcpesahgvuf9bc4pgib85jc1bk.apps.googleusercontent.com',
+    iosClientId: 'add iosclient id',
     iosBundleId: 'com.example.codeSilver',
   );
 }
